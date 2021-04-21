@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hafezd El Daffa.
 - 👀 I’m interested in Web & Mobile Development.
 - 📚 I’m currently learning in Gunadarma University.
-- 💻 Currently i'm developing Flutter & Javascript.
+- 💻 Currently i'm developing with Flutter & Javascript.
 - 📫 Contact me at [Linkedin](https://www.linkedin.com/in/hafezdeldaffa)
 
 <!---
