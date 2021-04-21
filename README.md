@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+[![hafezd github stats](https://github-readme-stats.vercel.app/api?username=hafezdeldaffa)](https://github.com/anuraghazra/github-readme-stats)
+---
 - 👋 Hi, I’m Hafezd El Daffa.
 - 👀 I’m interested in Web & Mobile Development.
 - 📚 I’m currently learning in Gunadarma University.
