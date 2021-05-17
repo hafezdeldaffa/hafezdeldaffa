@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Hafezd El Daffa.
 - 👀 I’m interested in Web & Mobile Development.
 - 📚 I’m currently learning in Gunadarma University.
-- 💻 Currently I'm developing with Flutter & Javascript.
+- 💻 Currently developing with Flutter & Javascript.
 - 📫 Contact me at [hafezdeldaffa@gmail.com](mailto:hafezdeldaffa@gmail.com)
 ---
 ![hafezd's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafezdeldaffa&show_icons=true&theme=gotham)
